@@ -6,7 +6,7 @@
 
 * 載入單字資料檔
 * 顯示英文單字
-* 顯示 KK 音標
+* 顯示音標
 * 顯示中文解釋
 * 播放單字發音
 * 自動播放單字
@@ -26,7 +26,10 @@
 * 中文解釋
 
 並自動播放對應發音。
-<img width="488" height="272" alt="image" src="https://github.com/user-attachments/assets/60e17855-ea3a-4660-b6cf-8870ec55f6de" />
+<p align="center">
+  <img width="488" height="272" alt="image" src="https://github.com/user-attachments/assets/60e17855-ea3a-4660-b6cf-8870ec55f6de" />
+</p>
+
 
 ### 發音播放
 
@@ -71,10 +74,7 @@
 系統會顯示目前瀏覽位置。
 
 例如：
-
-```text
 第 35 / 500 個單字
-```
 
 方便使用者掌握目前學習進度。
 
